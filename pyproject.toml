@@ -1,0 +1,8 @@
+[project]
+name = "opsex"
+version = "1.0.1"
+description = "Best Opsec Ever!"
+requires-python = ">=3.8"
+
+[project.scripts]
+opsec = "opsec:main"
